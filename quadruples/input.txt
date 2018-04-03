@@ -1,0 +1,24 @@
+main()
+{
+int a,b,c,d[5];
+if(a<b)
+{
+d[5]=a;
+a=a+b*b;
+a=d[5];
+}
+while(a<b)
+{
+a=a+b;
+}
+if(a<=b)
+{
+c=a-b;
+}
+else
+{
+c=a+b;
+}
+}
+
+

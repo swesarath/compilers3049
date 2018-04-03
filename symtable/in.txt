@@ -1,0 +1,16 @@
+{
+	int a,b;
+	float d,e;
+	{
+		char c='c';
+		float x;
+	}
+	{
+		int y=13;
+		{
+			float p=0.5,q;
+			char h;
+		}
+		char z;
+	}
+}
